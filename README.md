@@ -1,2 +1,2 @@
 # foundation
-foundation coding assessment
+Foundation Coding Assessment
